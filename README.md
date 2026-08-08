@@ -99,14 +99,23 @@ Ogni scala include un pannello espandibile con soglie di interpretazione, MCID, 
 
 ---
 
-## Come usarla su iPad
+## Installazione
 
-1. Apri il link dell'app in **Safari**
-2. Tocca l'icona **Condividi** (quadrato con freccia)
-3. Scorri e tocca **"Aggiungi alla schermata Home"**
-4. Dai un nome e tocca **Aggiungi**
+Questionfisio è una **Progressive Web App**: si installa direttamente dal browser, senza App Store.
 
-L'icona apparirà sul desktop e si aprirà a schermo intero come un'app nativa, anche senza connessione.
+### iPad / iPhone (Safari)
+1. Apri il link dell'app in **Safari** (non Chrome)
+2. Tocca l'icona **Condividi** — il quadrato con la freccia verso l'alto
+3. Scorri e tocca **Aggiungi alla schermata Home**
+4. Tocca **Aggiungi**
+
+### Android (Chrome)
+Comparirà automaticamente una barra in basso con il pulsante **Installa**. In alternativa: menu ⋮ → **Installa app**.
+
+### Computer (Chrome / Edge)
+Comparirà l'icona di installazione ⊕ nella barra degli indirizzi, oppure appare la barra con **Installa** in basso.
+
+Una volta installata, l'app funziona **completamente offline** grazie al service worker.
 
 ---
 
