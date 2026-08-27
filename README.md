@@ -33,6 +33,7 @@ Applicazione web per la somministrazione di scale di valutazione clinica e il mo
 | Scala | Descrizione |
 |---|---|
 | **QuickDASH** | Disabilities of Arm, Shoulder and Hand (11 item, 0–100) |
+| **CTS-6** | CTS-6 Evaluation Tool — criteri diagnostici tunnel carpale (0–26) |
 
 ### 🦴 Rachide
 | Scala | Descrizione |
@@ -51,13 +52,23 @@ Applicazione web per la somministrazione di scale di valutazione clinica e il mo
 ### 🩺 Cliniche / Rischio
 | Scala | Descrizione |
 |---|---|
-| **Wells DVT** | Probabilità pre-test trombosi venosa profonda |
 | **FRAX** | Screening fattori di rischio frattura osteoporotica |
 | **FIQR** | Revised Fibromyalgia Impact Questionnaire (21 item) |
 | **POSAS 2.0** | Scar Assessment Scale — Osservatore + Paziente |
 | **Flags LBP** | Red / Yellow / Blue flags nella lombalgia |
 | **Edema** | Pitting score con riferimento visivo (1+ → 4+) |
 | **Örebro ÖMPSQ-SF** | Screening rischio cronicizzazione (10 item, 1–100) |
+
+### 🎯 Clinical Prediction Rules
+| Regola | Descrizione |
+|---|---|
+| **CPR Artrosi d'Anca** | Sutlive 2008 — 5 criteri, LR+ 24.3 con ≥4 |
+| **CPR Radicolopatia Cervicale** | Wainner 2003 — ULTT A, rotazione <60°, distrazione, Spurling A |
+| **CPR Manipolazione Lombare** | Flynn 2002 / Childs 2004 — 5 criteri, successo 95% con ≥4 |
+| **Ottawa Ankle Rules** | Necessità di RX dopo trauma caviglia/piede |
+| **Ottawa Knee Rule** | Necessità di RX dopo trauma ginocchio |
+| **Pittsburgh Knee Rules** | Alternativa a Ottawa, maggiore specificità |
+| **Wells DVT** | Probabilità pre-test trombosi venosa profonda |
 
 ### 📋 Generaliste
 | Scala | Descrizione |
