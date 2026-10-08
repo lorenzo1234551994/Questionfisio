@@ -146,6 +146,12 @@ Le scale incluse sono strumenti pubblicati in letteratura scientifica. Alcune (P
 
 ---
 
+## Licenza
+
+© 2026 lorenzo1234551994. Tutti i diritti riservati: il codice e i contenuti di questo repository non possono essere copiati, modificati o ridistribuiti senza autorizzazione scritta. Dettagli nel file [LICENSE](LICENSE).
+
+---
+
 ## Sviluppo
 
 Applicazione single-page in React, compilata in un unico file HTML autonomo.
